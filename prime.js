@@ -16,7 +16,8 @@ var colorWater = '#a7bed3'
 var colorLand = '#a3705b'
 // was  abd8bb
 var colorGraticule = '#9ab2ce'
-var colorCountry = '#0dc1e5'
+var colorCountry = '#7f3c15'
+// was 0dc1e5
 var colorhover = ''
 var colorBorder = '#000000'
 
