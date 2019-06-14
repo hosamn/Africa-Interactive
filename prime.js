@@ -11,13 +11,13 @@ var degPerSec = 0
 // start angles
 var angles = { x: 0, y: -20, z: 0}
 // colors
-var colorWater = '#a7bed3'
-// was fff
-var colorLand = '#b78466'
-// was  abd8bb
+var colorWater = '#ffd'
+// was a7bed3
+var colorLand = '#abd8bb'
+// was  b78466
 var colorGraticule = '#9ab2ce'
-var colorCountry = '#7f3c15'
-// was 0dc1e5
+var colorCountry = '#0dc1e5'
+// was 7f3c15
 var colorhover = ''
 var colorBorder = '#000000'
 
