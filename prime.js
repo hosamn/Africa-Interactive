@@ -13,7 +13,7 @@ var angles = { x: 0, y: -20, z: 0}
 // colors
 var colorWater = '#a7bed3'
 // was fff
-var colorLand = '#a3705b'
+var colorLand = '#b78466'
 // was  abd8bb
 var colorGraticule = '#9ab2ce'
 var colorCountry = '#7f3c15'
